@@ -16,6 +16,9 @@ This Chrome extension opens the SocialBlade profile of the currently active YouT
 1. Navigate to a YouTube video, Shorts, or channel.
 2. Click the extension icon to open the channel's SocialBlade profile.
 
+## Demo
+![Demo of the extension](media/demo.gif)
+
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request.
 
